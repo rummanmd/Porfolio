@@ -1,0 +1,239 @@
+Personal Portfolio
+
+# sidebar
+
+alt = Mohd Rumman
+Mohd Rumman
+Web developer
+
+Show Contacts
+
+Email
+rummanmd0101@gmail.com
+
+Phone
++1 567-901-1605
+
+
+
+Location
+Youngstown , Ohio, USA
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am Mohd Rumman, a seasoned Web Developer with over 7 years of experience. My expertise spans JavaScript frameworks like Angular, React.JS, and Node.JS, along with Java technologies and cloud computing environments such as Amazon Web Services (AWS). I am passionate about crafting dynamic web solutions, following Agile methodologies for efficient project delivery.
+
+My portfolio showcases a diverse range of projects highlighting my skills in multi-tiered application design, development, and testing, as well as my proficiency in AWS services and web development tool.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web Design (UI)
+Professionals create the best, most cutting-edge and cleanest patterns.
+
+alt = Web development icon
+Web development
+Proficient development of websites of high-quality.
+
+alt = mobile app icon
+Mobile Applications
+A Expert building applications for Android and iOS.
+
+alt = camera icon
+Photography
+I utilize professional, high-quality pictures in every style.
+
+
+## testimonials
+
+Testimonials
+
+alt = Pattrick V. Kerrigan
+Pattrick V. Kerrigan
+Mohd Rumman's expertise in JavaScript frameworks and tools like Content Management System (CMS) benefited our projects at Oak Hill Collaborative, Inc. His dedication, attention to detail, and problem-solving skills were exceptional. I highly recommend Mohd Rumman for his outstanding contributions to web development.
+
+alt = Anthony Hake
+At Youngstown State University (YSU.EDU), Mohd Rumman's skill with AWS cloud computing, along with his knowledge of WordPress and Drupal, as well as the JavaScript framework React.JS, played a crucial role in facilitating the success of web development projects. He was a remarkable web developer because of his proactive appearance, remarkable attention to detail, and powerful problem-solving abilities. Mohd Rumman comes highly recommended for any position requiring great web development skills.
+
+alt = Mohammad Adil
+Mohammad Adil
+Mohd expertise in React JS and Redux greatly enhanced our web development projects at TravQ Holidays. His ability to develop REST APIs and create responsive designs was crucial to our success. I highly recommend Mohd Rumman for his exceptional skills and dedication to delivering top-notch solutions.
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+.
+
+Experience
+Web Developer
+December 2023 — Present
+Oak Hill Collaborative Inc
+
+Web Developer
+August 2022 — December 2023
+Youngstown State University
+
+Web Developer
+December 2019 — July 2022
+TravQ Holidays
+
+Web Developer
+August 2016 - November
+Ess. Pee Enterprises
+
+
+Education
+
+Youngstown State University
+2022 — 2023
+Master Degree
+
+Sam Higginbottom University of Agriculture, Technology & Sciences
+2012 — 2016
+Bachelor Degree
+
+Ethel Higgibottom School & College
+2008 — 2010
+High School
+
+My skills
+
+Web development
+80%
+Web Design
+85%
+Drupal
+90%
+WordPress
+92%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
